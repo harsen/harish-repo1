@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is AC6A-C419
+
+ Directory of D:\Devops\Git\harish-repo
+
+01/17/2018  11:49 AM    <DIR>          .
+01/17/2018  11:49 AM    <DIR>          ..
+01/17/2018  11:49 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  78,201,380,864 bytes free
